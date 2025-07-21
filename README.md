@@ -5,7 +5,7 @@ KharchaGuru is a cutting-edge MERN stack-powered expense tracker crafted to elev
 # Screenshots
 
 *Login page of KharchaGuru*
-![Login Page Of KharchaGuru](https://github.com/varshneyongithub/KharchaGuru/blob/master/Screenshots/Screenshot%20(1487).png)<br><br><br>
+![Login Page Of KharchaGuru](https://github.com/varshneyongithub/KharchaGuru/blob/master/SCREENSHOTS/Screenshot%20(1487).png)<br><br><br>
 
 *SignUp page of KharchaGuru*
 ![SignUp Page Of KharchaGuru](https://github.com/varshneyongithub/KharchaGuru/blob/master/Screenshots/Screenshot%20(1489).png)<br><br><br>
