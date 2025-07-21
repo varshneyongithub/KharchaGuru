@@ -118,7 +118,7 @@ Here are the installation steps for the KharchaGuru project:
 
 1. **Clone the Repository**:
    Start by cloning the KharchaGuru repository from GitHub to your local machine:
-   git clone https://github.com/Soumya6Tiwari/kharchaguru.git  <br>
+   git clone https://github.com/varshneyongithub/kharchaguru.git  <br>
    cd kharchaguru
 
 2. **Install Frontend Dependencies**:
